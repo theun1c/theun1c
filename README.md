@@ -18,7 +18,7 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **web applications**
-- 🌱 I'm currently learning: **С#, ASP.NET**
+- 🌱 I'm currently learning: **С#, Go**
 
 
 
