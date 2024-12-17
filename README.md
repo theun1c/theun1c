@@ -1,6 +1,6 @@
 ![🙄Бож челы, вы че🙄](https://i.pinimg.com/originals/09/9d/0b/099d0b4095a4dd5e4c4176d49b523c34.png)
 
-![Profile views](https://komarev.com/ghpvc/?username=theunic228&label=Profile%20views&color=0e75b6&style=flat)
+
 
 <div id="toc">
   <ul align="center" style="list-style: none">
