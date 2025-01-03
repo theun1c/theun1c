@@ -1,4 +1,4 @@
-![🙄Бож челы, вы че🙄]([https://i.pinimg.com/originals/09/9d/0b/099d0b4095a4dd5e4c4176d49b523c34.png](https://images.wallpaperscraft.com/image/single/girl_hair_sky_986021_1920x1080.jpg))
+![🙄Бож челы, вы че🙄](https://i.pinimg.com/originals/09/9d/0b/099d0b4095a4dd5e4c4176d49b523c34.png](https://images.wallpaperscraft.com/image/single/girl_hair_sky_986021_1920x1080.jpg)
 
 
 
