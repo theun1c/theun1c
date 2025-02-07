@@ -1,4 +1,4 @@
-![](https://playerok.fra1.digitaloceanspaces.com/images/1efab4d6-dcce-6230-cef8-d9ebeeb6c8f8.jpg)
+![](https://vk.com/wall-225022816_3186?z=photo-225022816_456245348%2Fwall-225022816_3186)
 
 
 <div id="toc">
