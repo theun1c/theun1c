@@ -13,6 +13,6 @@
 
 - 💼 I'm currently working on: **desktop applications**
 - 🌱 I'm currently learning: **С#**
-
+- 🔥 I'm currently writing my own project -> **in progress** -> in private repo =) 
 
 
