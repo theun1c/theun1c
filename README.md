@@ -1,4 +1,4 @@
-![](https://i.ytimg.com/vi/QuZi2FIju8U/maxresdefault.jpg?v=6732132d)
+![](https://thathashtagshow.com/wp-content/uploads/2024/11/Blue-Box-Episode-8-But-Why-Tho-1-1080x600.jpg)
 
 
 <div id="toc">
@@ -11,7 +11,7 @@
   </ul>
 </div>
 
-- 💼 I'm currently working on: **desktop applications**
+- 💼 I'm currently working on: **desktop and web applications**
 - 🌱 I'm currently learning: **С#**
 - 🔥 I'm currently writing my own project -> **in progress** -> in private repo =) 
 
