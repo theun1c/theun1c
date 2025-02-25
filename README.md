@@ -12,7 +12,7 @@
 </div>
 
 - 💼 I'm currently working on: **desktop and web applications**
-- 🌱 I'm currently learning: **С#**
-- 🔥 I'm currently writing my own project -> **in progress** -> It's already open =)
+- 🌱 I'm currently learning: **С# + JS**
+- 🔥 I'm currently writing my own project -> **in progress** -> in private repo =)
 
 
