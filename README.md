@@ -13,7 +13,7 @@
 
 - 💼 I'm currently working on: **desktop and web applications**
 - 🌱 I'm currently learning: **С# + JS**
-- 🔥 I'm currently writing my own project -> **in progress** -> in private repo =)
+- 🔥 I'm currently writing my own project -> **in progress** -> пишу ради "поугарать" 
 
 <div id="toc">
   <ul align="center" style="list-style: none">
