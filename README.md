@@ -24,7 +24,6 @@
     </summary>
   </ul>
 </div>
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -32,19 +31,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-</div>
 
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        Most used languages
+      😝 Most used languages 😝
       </h1>
     </summary>
   </ul>
 </div>
-<div align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theun1c&layout=compact)](https://github.com/theun1c/github-readme-stats)
 
-</div>
