@@ -43,6 +43,5 @@
     </summary>
   </ul>
 </div>
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theun1c&layout=compact)](https://github.com/theun1c/github-readme-stats)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theun1c&layout=compact)](https://github.com/theun1c/github-readme-stats)
+
