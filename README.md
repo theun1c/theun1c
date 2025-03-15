@@ -34,4 +34,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theun1c&layout=compact)](https://github.com/theun1c/github-readme-stats)
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        Most used languages
+      </h1>
+    </summary>
+  </ul>
+</div>
+<div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theun1c&layout=compact)](https://github.com/theun1c/github-readme-stats)
+</div>
