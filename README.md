@@ -13,7 +13,7 @@
 
 - 💼 I'm currently working on: **desktop and web applications**
 - 🌱 I'm currently learning: **С# + JS (react js)**
-- 🔥 I'm currently writing my own project -> **Player** (anime hosting) <- lmao thing
+- 🔥 I'm currently writing my own project -> **[AnimePlayer](https://github.com/theun1c/AnimePlayer)** (anime hosting) <- lmao thing
 
 <div id="toc">
   <ul align="center" style="list-style: none">
