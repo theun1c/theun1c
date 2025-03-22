@@ -16,7 +16,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **Full stack project (anime-hosting) **
+- 💼 I'm currently working on: **Full stack project (anime-hosting)**
 - 🌱 I'm currently learning: **JavaScript, C#, ReactJS, ASP.NET, PostgreSQL**
 
  **<h3 align="left">GitHub Stats</h3>**
