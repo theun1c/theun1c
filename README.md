@@ -19,10 +19,6 @@
 - 💼 I'm currently working on: **Full stack project (anime-hosting) **
 - 🌱 I'm currently learning: **JavaScript, C#, ReactJS, ASP.NET, PostgreSQL**
 
- **<h3 align="center">Skills</h3>**
-
-<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="JavaScript" style="margin-right: 8px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="48" alt="C#" style="margin-right: 8px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="React" style="margin-right: 8px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" height="48" alt="ASP.NET" style="margin-right: 8px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL" style="margin-right: 8px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="48" alt="Visual Studio" style="margin-right: 8px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="48" alt="VSCode" style="margin-right: 8px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="48" alt="Supabase" style="margin-right: 8px"></div>
-
  **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
