@@ -6,18 +6,18 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, my name is TheUn1c
+        👋 Hi, my name is Dm1try (TheUn1c)
       </h1>
     </summary>
   </ul>
 </div>
 
- **<h3 align="center">A student from Russia who hates 1C ...</h3>**
+ **<h3 align="center">A very lazy student who won't become a programmer ...</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **Full stack project (anime-hosting)**
-- 🌱 I'm currently learning: **JavaScript, C#, ReactJS, ASP.NET, PostgreSQL**
+- 💼 I'm currently working on: **I'm not working right now...**
+- 🌱 I'm currently learning: **I'm not learning smth right now...**
 
  **<h3 align="left">GitHub Stats</h3>**
 
