@@ -27,4 +27,14 @@
 </p>
 
 [![theun1c's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theun1c&theme=tokyo-night)](https://github.com/theun1c/github-readme-activity-graph)
+
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+          (˶ᵔ ᵕ ᵔ˶)
+      </h1>
+    </summary>
+  </ul>
+</div>
 ![last-pict](https://avatars.mds.yandex.net/i?id=f9346aba5713f3fdfc7b3c84f3a5d465_l-5827319-images-thumbs&n=13)
