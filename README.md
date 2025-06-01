@@ -32,7 +32,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-          🙌 follow me pls (˶ᵔ ᵕ ᵔ˶)
+          🙌 Follow me, pls (˶ᵔ ᵕ ᵔ˶)
       </h1>
     </summary>
   </ul>
