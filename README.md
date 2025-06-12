@@ -12,7 +12,7 @@
   </ul>
 </div>
 
- **<h3 align="center">A very lazy student who won't become a programmer ...</h3>**
+ **<h3 align="center">A very lazy student who doesn't want to work at McDonald's ...</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
