@@ -16,8 +16,11 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **I'm not working right now...**
-- 🌱 I'm currently learning: **I'm not learning smth right now...**
+- 💼 I'm currently working on: **Linux monitoring project - [LinuxMonitor](https://github.com/theun1c/LinuxMonitor)**
+- 🌱 **I'm currently learning:**  
+  - 🩵 C#: Clean Architecture, OOP 
+  - 🌐 Web Dev: ASP.NET Core, API Design, WEB API  
+  - 🛢️ Databases: Entity Framework Core, Supabase, PostgreSQL  
 
 **<h3 align="left">Skills</h3>**
 
@@ -31,6 +34,4 @@
 </p>
 
 [![theun1c's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theun1c&theme=tokyo-night)](https://github.com/theun1c/github-readme-activity-graph)
-
-<p align="left"><a href="belovdima1122@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/theun1c" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
