@@ -1,8 +1,7 @@
 ![👋 Hi, my name is TheUn1c](https://avatars.mds.yandex.net/i?id=dd0bceef98ffc0ef37cd380d592bbcaa_l-5350576-images-thumbs&n=13)
 
-![Profile views](https://komarev.com/ghpvc/?username=theun1c&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=theun1c&label=Profile%20views&color=0e75b6&style=flat) <p align="left"><a href="belovdima1122@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/theun1c" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-<p align="left"><a href="belovdima1122@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/theun1c" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
 <div id="toc">
   <ul align="center" style="list-style: none">
@@ -34,14 +33,3 @@
 
 [![theun1c's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theun1c&theme=tokyo-night)](https://github.com/theun1c/github-readme-activity-graph)
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-          🙌 Follow me, pls (˶ᵔ ᵕ ᵔ˶)
-      </h1>
-    </summary>
-  </ul>
-</div>
-
-![last-pict](https://avatars.mds.yandex.net/i?id=f9346aba5713f3fdfc7b3c84f3a5d465_l-5827319-images-thumbs&n=13)
