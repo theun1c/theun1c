@@ -16,7 +16,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **Linux monitoring project - [LinuxMonitor](https://github.com/theun1c/LinuxMonitor)**
+- 💼 I'm currently working on: **Linux monitoring project - [ServerMonitoringAgent](https://github.com/theun1c/ServerMonitoringAgent)**
 - 🌱 **I'm currently learning:**  
   - 🩵 C#: Clean Architecture, OOP 
   - 🌐 Web Dev: ASP.NET Core, API Design, WEB API  
