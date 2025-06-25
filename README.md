@@ -1,6 +1,6 @@
 ![👋 Hi, my name is TheUn1c](https://avatars.mds.yandex.net/i?id=dd0bceef98ffc0ef37cd380d592bbcaa_l-5350576-images-thumbs&n=13)
 
-![Profile views](https://komarev.com/ghpvc/?username=theun1c&label=Profile%20views&color=0e75b6&style=flat) 
+![anime1](https://lastfm.freetls.fastly.net/i/u/ar0/d4c9adb1e823069c5acf31d6569dc154.png)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
@@ -35,4 +35,5 @@
 
 [![theun1c's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theun1c&theme=tokyo-night)](https://github.com/theun1c/github-readme-activity-graph)
 
-![anime](https://lastfm.freetls.fastly.net/i/u/ar0/d4c9adb1e823069c5acf31d6569dc154.png)
+
+![anime2](https://komarev.com/ghpvc/?username=theun1c&label=Profile%20views&color=0e75b6&style=flat) 
