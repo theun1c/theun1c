@@ -35,4 +35,4 @@
 
 [![theun1c's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theun1c&theme=tokyo-night)](https://github.com/theun1c/github-readme-activity-graph)
 
-[](https://lastfm.freetls.fastly.net/i/u/ar0/d4c9adb1e823069c5acf31d6569dc154.png)
+[lastpic](https://lastfm.freetls.fastly.net/i/u/ar0/d4c9adb1e823069c5acf31d6569dc154.png)
