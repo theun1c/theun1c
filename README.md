@@ -16,11 +16,15 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **Linux monitoring project - [ServerMonitoringAgent](https://github.com/theun1c/ServerMonitoringAgent)** and **TaskFlow project - [TaskFlow](https://github.com/theun1c/TaskFlow)**
+- 💼 I'm currently working on: **Golang project**
 - 🌱 **I'm currently learning:**  
-  - 🩵 C#: Clean Architecture, OOP 
-  - 🌐 Web Dev: ASP.NET Core, API Design, WEB API  
-  - 🛢️ Databases: Entity Framework Core, Supabase, PostgreSQL  
+  - 🩵 C#: Clean Architecture, OOP
+  - 🧊 Go: Concurrency, Goroutines, API Development
+  - 🌐 Web Dev: ASP.NET Core, Gin, gRPC, API Design, WEB API, Microservices
+  - 🛢️ Databases: Entity Framework Core, GORM, Supabase, PostgreSQL
+
+**<h3 align="left">Skills</h3>**
+<h6 align="center">....is missing</h6>
 
  **<h3 align="left">GitHub Stats</h3>**
 
