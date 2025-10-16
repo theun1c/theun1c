@@ -15,13 +15,7 @@
  **<h3 align="center">A student who doesn't want to work at McDonald's ...</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
-
-- 💼 I'm currently working on: **Golang project**
-- 🌱 **I'm currently learning:**  
-  - 🩵 C#: Clean Architecture, OOP
-  - 🧊 Go: Concurrency, Goroutines, API Development
-  - 🌐 Web Dev: ASP.NET Core, Gin, gRPC, API Design, WEB API, Microservices
-  - 🛢️ Databases: Entity Framework Core, GORM, Supabase, PostgreSQL
+<h6 align="center">....is missing</h6>
 
 **<h3 align="left">Skills</h3>**
 <h6 align="center">....is missing</h6>
