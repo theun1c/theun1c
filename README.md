@@ -10,7 +10,7 @@
         <h3>A student who doesn't want to work at McDonald's ...</h3>
       </td>
       <td align="right" valign="top">
-        <img src="https://static1.squarespace.com/static/5fe4caeadae61a2f19719512/t/66961e32e3aee930ab8a5d73/1721114181081/Your+Name+-+Kimi+No+Na+Wa" alt="anime gif" width="200"/>
+        <img src="https://media1.tenor.com/m/SREYiD8lPPMAAAAd/rikka-takarada-ssss-gridman.gif" alt="anime gif" width="200"/>
       </td>
     </tr>
   </table>
