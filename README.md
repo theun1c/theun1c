@@ -1,6 +1,3 @@
-
-![profile views](https://komarev.com/ghpvc/?username=theun1c&label=Profile%20views&color=0e75b6&style=flat) 
-
 <h1>✨ Dm1try </h1>
 
 <img align="right" alt="anime gif" src="https://media1.tenor.com/m/SREYiD8lPPMAAAAd/rikka-takarada-ssss-gridman.gif" width="250" style="border-radius: 10px;">
@@ -16,7 +13,10 @@
 
 **Tech Stack:**  C# • GO • WEB • SQL
 
+
 </p>
+
+![profile views](https://komarev.com/ghpvc/?username=theun1c&label=Profile%20views&color=0e75b6&style=flat) 
 
 <br clear="both">
 
