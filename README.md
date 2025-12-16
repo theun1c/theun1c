@@ -3,20 +3,17 @@
 
 ![profile views](https://komarev.com/ghpvc/?username=theun1c&label=Profile%20views&color=0e75b6&style=flat) 
 
-<div align="center">
-  <table>
-    <tr>
-      <!-- Левая колонка с текстом -->
-      <td width="70%" align="left">
-        <h1>👋 Hi, my name is Dm1try (TheUn1c)</h1>
-        <h3>A student who doesn't want to work at McDonald's ...</h3>
-      </td>
-      <!-- Правая колонка с GIF -->
-      <td width="30%" align="right">
-        <img src="https://media1.tenor.com/m/Qd-TJzXtsmEAAAAC/hina-chono-blue-box.gif" alt="anime gif" width="200"/>
-      </td>
-    </tr>
-  </table>
+<div align="center" style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <!-- Левая часть - текст -->
+  <div style="text-align: left; flex: 1;">
+    <h1>👋 Hi, my name is Dm1try (TheUn1c)</h1>
+    <h3>A student who doesn't want to work at McDonald's ...</h3>
+  </div>
+  
+  <!-- Правая часть - GIF -->
+  <div style="flex-shrink: 0; margin-left: 20px;">
+    <img src="https://media1.tenor.com/m/Qd-TJzXtsmEAAAAC/hina-chono-blue-box.gif" alt="anime gif" width="200"/>
+  </div>
 </div>
 
  **<h3 align="center">A student who doesn't want to work at McDonald's ...</h3>**
