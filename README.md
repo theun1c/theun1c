@@ -2,16 +2,19 @@
 
 ![profile views](https://komarev.com/ghpvc/?username=theun1c&label=Profile%20views&color=0e75b6&style=flat) 
 
-<p align="center">
-  <img align="right" src="https://media1.tenor.com/m/Qd-TJzXtsmEAAAAC/hina-chono-blue-box.gif" alt="anime gif" width="200"/>
-  
-  <div align="left">
-    <h1>👋 Hi, my name is Dm1try (TheUn1c)</h1>
-    <h3>A student who doesn't want to work at McDonald's ...</h3>
-  </div>
-</p>
-
-<br clear="right">
+<div align="center">
+  <table>
+    <tr>
+      <td align="left" valign="top">
+        <h1>👋 Hi, my name is Dm1try (TheUn1c)</h1>
+        <h3>A student who doesn't want to work at McDonald's ...</h3>
+      </td>
+      <td align="right" valign="top">
+        <img src="https://media1.tenor.com/m/Qd-TJzXtsmEAAAAC/hina-chono-blue-box.gif" alt="anime gif" width="200"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="left">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=theun1c&theme=tokyonight&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
