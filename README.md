@@ -10,7 +10,7 @@
         <h3>A student who doesn't want to work at McDonald's ...</h3>
       </td>
       <td align="right" valign="top">
-        <img src="https://media1.tenor.com/m/Qd-TJzXtsmEAAAAC/hina-chono-blue-box.gif" alt="anime gif" width="200"/>
+        <img src="https://media1.tenor.com/m/BAsHNQ4TEHMAAAAC/blue-box-ao-no-hako.gif" alt="anime gif" width="200"/>
       </td>
     </tr>
   </table>
