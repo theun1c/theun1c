@@ -1,4 +1,3 @@
-
 <!-- ![anime1](https://lastfm.freetls.fastly.net/i/u/ar0/d4c9adb1e823069c5acf31d6569dc154.png) -->
 
 ![profile views](https://komarev.com/ghpvc/?username=theun1c&label=Profile%20views&color=0e75b6&style=flat) 
@@ -16,7 +15,7 @@
   </div>
 </div>
 
- **<h3 align="center">A student who doesn't want to work at McDonald's ...</h3>**
+<br>
 
 <p align="left">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=theun1c&theme=tokyonight&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
@@ -24,5 +23,3 @@
 </p>
 
 [![theun1c's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theun1c&theme=tokyo-night)](https://github.com/theun1c/github-readme-activity-graph)
-
-
