@@ -1,4 +1,4 @@
-<h1>✨ Dm1try </h1>
+<h1>✨ Dmitry </h1>
 
 <img align="right" alt="anime gif" src="https://media1.tenor.com/m/Qd-TJzXtsmEAAAAC/hina-chono-blue-box.gif" height="245" style="border-radius: 1px;">
 
