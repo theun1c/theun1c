@@ -11,8 +11,6 @@
 - 🎮 Anime Enjoyer
 - 🌙 Coding while the world sleeps
 - ⏳ Master of productive procrastination
-<br>
-<br>
 
 **Tech Stack:**  C# • GO • WEB • SQL
 
