@@ -4,6 +4,8 @@
 
 <p align="left">
 
+<br>
+<br>
 - 🎓 Student Developer
 - 🎮 Anime Enjoyer
 - 🌙 Coding while the world sleeps
