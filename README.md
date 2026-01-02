@@ -2,13 +2,14 @@
 
 <img align="right" alt="anime gif" src="https://media1.tenor.com/m/Qd-TJzXtsmEAAAAC/hina-chono-blue-box.gif" height="245" style="border-radius: 1px;">
 
-
 <p align="left">
 
 - 🎓 Student Developer
 - 🎮 Anime Enjoyer
 - 🌙 Coding while the world sleeps
 - ⏳ Master of productive procrastination
+- 🎯 Building my own digital universe
+- 📺 Watching tutorials at 2x speed
 
 **Tech Stack:**  C# • GO • WEB • SQL
 
