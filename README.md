@@ -2,10 +2,11 @@
 
 <img align="right" alt="anime gif" src="https://media1.tenor.com/m/Qd-TJzXtsmEAAAAC/hina-chono-blue-box.gif" height="245" style="border-radius: 1px;">
 
+<br>
+<br>
+
 <p align="left">
 
-<br>
-<br>
 - 🎓 Student Developer
 - 🎮 Anime Enjoyer
 - 🌙 Coding while the world sleeps
