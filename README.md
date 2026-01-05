@@ -9,13 +9,10 @@
 - 🌙 Coding while the world sleeps
 - ⏳ Master of productive procrastination
 - 🎯 Building my own digital universe
-- 📺 Watching tutorials at 2x speed
 
-**Tech Stack:**  C# • GO • WEB • SQL
-
+**Tech Stack:**  C# • GO • WEB • SQL <br>
+**Interested in:**  C • Rust • System programming 
 </p>
-
-<br>
 
 ![profile views](https://komarev.com/ghpvc/?username=theun1c&label=Profile%20views&color=0e75b6&style=flat) 
 
