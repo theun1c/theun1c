@@ -6,6 +6,8 @@
 
 - 🎓 Student Developer
 - 🎮 Anime Enjoyer
+- 🌙 Coding while the world sleeps
+- ⏳ Master of productive procrastination
 
 **Tech Stack:**  C# • GO • WEB • SQL <br>
 </p>
