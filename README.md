@@ -8,7 +8,6 @@
 - 🎮 Anime Enjoyer
 
 **Tech Stack:**  C# • GO • WEB • SQL <br>
-**Interested in:**  C • Rust • System programming 
 </p>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fene2g4y3wtn7gaqst7p6symhm&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31fene2g4y3wtn7gaqst7p6symhm&redirect=true)
