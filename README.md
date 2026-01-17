@@ -10,7 +10,7 @@
 **Tech Stack:**  C# • GO • WEB • SQL <br>
 </p>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fene2g4y3wtn7gaqst7p6symhm&cover_image=false&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31fene2g4y3wtn7gaqst7p6symhm&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fene2g4y3wtn7gaqst7p6symhm&cover_image=false&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31fene2g4y3wtn7gaqst7p6symhm&redirect=true) 
 
 ![profile views](https://komarev.com/ghpvc/?username=theun1c&label=Profile%20views&color=0e75b6&style=flat) 
 
