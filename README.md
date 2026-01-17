@@ -1,6 +1,6 @@
 <h1>✨ Dmitry </h1>
 
-<img align="right" alt="anime gif" src="https://media1.tenor.com/m/Qd-TJzXtsmEAAAAC/hina-chono-blue-box.gif" height="250" style="border-radius: 1px;">
+<img align="right" alt="anime gif" src="https://media1.tenor.com/m/Qd-TJzXtsmEAAAAC/hina-chono-blue-box.gif" height="300" style="border-radius: 1px;">
 
 <p align="left">
 
