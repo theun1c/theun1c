@@ -1,6 +1,6 @@
 <h1>✨ Dmitry </h1>
 
-<img align="right" alt="anime gif" src="https://media1.tenor.com/m/Qd-TJzXtsmEAAAAC/hina-chono-blue-box.gif" height="500" style="border-radius: 1px;">
+<img align="right" alt="anime gif" src="https://media1.tenor.com/m/Qd-TJzXtsmEAAAAC/hina-chono-blue-box.gif" height="250" style="border-radius: 1px;">
 
 <p align="left">
 
@@ -15,11 +15,12 @@
 
 </p>
 
-<p align="left" width="100">
+<p align="left" width="200">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fene2g4y3wtn7gaqst7p6symhm&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fene2g4y3wtn7gaqst7p6symhm&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark">
   </a>
 </p>
+
 <h1></h1>
 
 ![profile views](https://komarev.com/ghpvc/?username=theun1c&label=Profile%20views&color=0e75b6&style=flat) 
