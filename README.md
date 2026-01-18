@@ -4,11 +4,11 @@
 
 <p align="left">
 
-- 🎓 Student Developer
-- 🎮 Anime Enjoyer
-- 🌙 Coding while the world sleeps
-- ⏳ Master of productive procrastination
-- 🎯 Daily commit farming
+- 🐸 Student Developer
+- 🐨 Anime Enjoyer
+- 🦊 Coding while the world sleeps
+- 🐼 Master of productive procrastination
+- 🐻 Daily commit farming
 
 **Tech Stack:** C# • GO • WEB • SQL <br>
 **Interested in:** C • Rust • System programming
