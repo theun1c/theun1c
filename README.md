@@ -10,8 +10,8 @@
 - 🐼 Master of productive procrastination
 - 🐻 Daily commit farming
 
-**Tech Stack:** C# • GO • WEB • SQL <br>
-**Interested in:** C • Rust • System programming
+**Tech Stack:** C# 🌸 GO 🌸 WEB 🌸 SQL <br>
+**Interested in:** C 💖 Rust 💖 System programming
 
 </p>
 
