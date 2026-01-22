@@ -23,6 +23,5 @@
 
 <h1></h1>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=theun1c&theme=dark)](https://git.io/streak-stats)
 
 
