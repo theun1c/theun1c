@@ -26,5 +26,5 @@
 ![profile views](https://komarev.com/ghpvc/?username=theun1c&label=Profile%20views&color=0e75b6&style=flat) 
 <!-- ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white) -->
 
-> add .vscode/ to .gitignore, guys
+<!-- > add .vscode/ to .gitignore, guys --> 
 
