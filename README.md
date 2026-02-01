@@ -6,7 +6,7 @@
 
 - 🦖 Student Developer
 - 🌸 Anime Enjoyer
-- 🌌 Coding while the world sleeps
+- 🌙 Coding while the world sleeps
 - ⚡ Master of productive procrastination
 - 🎯 Daily commit farming
 
