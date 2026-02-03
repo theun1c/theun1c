@@ -1,6 +1,8 @@
 <h1>✨ Dm1try aka theun1c ✨</h1>
 
-<img align="right" alt="anime gif" src="https://media1.tenor.com/m/Qd-TJzXtsmEAAAAC/hina-chono-blue-box.gif" height="300" style="border-radius: 1px;">
+<img align="right" alt="anime gif" src="https://media1.tenor.com/m/Qd-TJzXtsmEAAAAC/hina-chono-blue-box.gif" height="250" style="border-radius: 1px;"> 
+
+<!--хеигхт был 300-->
 
 <p align="left">
 
@@ -15,15 +17,13 @@
 
 </p>
 
-<p align="center">
+<!--<p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fene2g4y3wtn7gaqst7p6symhm&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fene2g4y3wtn7gaqst7p6symhm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false">
   </a>
-</p>
+</p>-->
 
-<h1></h1>
-
-![profile views](https://komarev.com/ghpvc/?username=theun1c&label=Profile%20views&color=0e75b6&style=flat) 
+![profile views](https://komarev.com/ghpvc/?username=theun1c&label=Profile%20views&color=0e75b6&style=flat)  
 <!-- ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white) -->
 
 <!-- > add .vscode/ to .gitignore, guys --> 
