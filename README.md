@@ -12,8 +12,8 @@
 - <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/> Master of productive procrastination
 - <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/> Daily commit farming
 
-**Tech Stack:** C# 🌸 GO 🌸 WEB 🌸 SQL <br>
-**Interested in:** C 💖 Rust 💖 System programming
+**Tech Stack:** C# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20with%20Arrow.png" alt="Heart with Arrow" width="20" height="20" /> GO <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20with%20Arrow.png" alt="Heart with Arrow" width="20" height="20" />WEB <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20with%20Arrow.png" alt="Heart with Arrow" width="20" height="20" /> SQL <br>
+**Interested in:** C <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" alt="Sparkling Heart" width="20" height="20" /> Rust <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" alt="Sparkling Heart" width="20" height="20" /> System programming
 
 </p>
 <!--<p align="center">
