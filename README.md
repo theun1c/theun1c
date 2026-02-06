@@ -6,11 +6,11 @@
 
 <p align="left">
 
-- 🦖 Student Developer
-- 🌸 Anime Enjoyer
-- 🌙 Coding while the world sleeps
-- ⚡ Master of productive procrastination
-- 🎯 Daily commit farming
+- <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/> Student Developer
+- <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/> Anime Enjoyer
+- <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25"/> Coding while the world sleeps
+- <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/> Master of productive procrastination
+- <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/> Daily commit farming
 
 **Tech Stack:** C# 🌸 GO 🌸 WEB 🌸 SQL <br>
 **Interested in:** C 💖 Rust 💖 System programming
