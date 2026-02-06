@@ -1,4 +1,4 @@
-<h1> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="50">Hi, I'm Dmitry<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="50"> </h1>
+<h1> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="40">Hi, I'm Dmitry<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="40"> </h1>
 
 <img align="right" alt="anime gif" src="https://media1.tenor.com/m/Qd-TJzXtsmEAAAAC/hina-chono-blue-box.gif" height="240" style="border-radius: 1px;"> 
 
