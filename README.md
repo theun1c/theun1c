@@ -13,7 +13,7 @@
 - 🎯 Daily commit farming
 
 **Tech Stack:** C# 🌸 GO 🌸 WEB 🌸 SQL <br>
-**Interested in:** C 💖 Rust 💖 System programming
+**Interested in:** C 💖 Rust 💖 SysProg 💖 CybSec
 
 </p>
 <!--<p align="center">
