@@ -10,10 +10,10 @@
 - 🌸 Anime Enjoyer
 - 🌙 Coding while the world sleeps
 - ⚡ Master of productive procrastination
-- 🎯 Daily commit farming
+- 🎯 Trying to work in focus
 
 **Tech Stack:** C# 🌸 GO 🌸 WEB 🌸 SQL <br>
-**Interested in:** C 💖 Rust 💖 SysProg
+**Interested in:** Security 💖 Computer science     
 
 </p>
 <!--<p align="center">
@@ -30,4 +30,4 @@
 
 <h1></h1>
 
-> need a rest
+> see you, gh user
