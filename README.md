@@ -12,8 +12,8 @@
 - ⚡ Master of productive procrastination
 - 🎯 Trying to work in focus
 
-**Tech Stack:** C# 🌸 GO 🌸 WEB 🌸 SQL <br>
-**Interested in:** Security 💖 Computer science     
+**Tech Stack:** C# 🌸 GO 🌸 WEB 🌸 DESKTOP <br>
+**Interested in:** SECURITY 💖 COMPUTER SCIENCE     
 
 </p>
 <!--<p align="center">
