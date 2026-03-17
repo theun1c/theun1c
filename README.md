@@ -31,5 +31,3 @@
 <h1></h1>
 
 > Never merge code you don't understand.
->
-> Yes, that's what I do. 
