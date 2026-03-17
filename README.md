@@ -30,4 +30,6 @@
 
 <h1></h1>
 
-> SEE YOU SPACE COWBOY ...  
+> Never merge code you don't understand.
+>
+> Yes, that's what I do. 
