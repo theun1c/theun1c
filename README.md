@@ -13,7 +13,7 @@
 - 🎯 Trying to work in focus
 
 **Tech Stack:** C# 🌸 Go 🌸 Web 🌸 Desktop <br>
-**Interested in:** Security 💖 Computer Science     
+**Interested in:** AI Dev 💖 Computer Science     
 
 </p>
 <!--<p align="center">
