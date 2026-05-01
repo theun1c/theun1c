@@ -30,4 +30,4 @@
 
 <h1></h1>
 
-> Never merge code you don't understand.
+> https://roadmap.sh/backend
