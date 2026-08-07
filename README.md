@@ -12,7 +12,7 @@
 - ⚡ Master of productive procrastination
 - 🎯 Trying to work in focus
 
-**Tech Stack:** C# 🌸 C/C++ 🌸 Web 🌸 Desktop <br>
+**Tech Stack:** C# 🌸 .NET 🌸 Web 🌸 Desktop <br>
 **Interested in:** CybSec 💖 Computer Science     
 
 </p>
